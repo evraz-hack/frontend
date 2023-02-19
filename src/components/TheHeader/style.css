@@ -1,0 +1,15 @@
+.header__container{
+    padding: 10px 20px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.menu-item{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    
+    align-items: center;
+}

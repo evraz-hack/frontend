@@ -1,0 +1,13 @@
+.switch__container{
+    margin: 20px;
+    display: flex;
+    justify-content: end;
+}
+
+.switch-flex{
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+    gap: 5px;
+}

@@ -1,0 +1,27 @@
+.legend__container{
+    display: flex;
+    justify-content: end;
+}
+
+.legend__flex{
+    display: flex;
+    gap: 20px;
+}
+.legend-item{
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
+.warn{
+    width: 15px;
+    height: 15px;
+    background-color: #F9A823;
+    border-radius: 3px;
+}
+
+.danger{
+    width: 15px;
+    height: 15px;
+    background-color: #E32112;
+    border-radius: 3px;
+}
